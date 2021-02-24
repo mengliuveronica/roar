@@ -1,0 +1,14 @@
+---
+title: "paper"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## write some things 
+
+now write something new
+
+and see if I can commit the changes
