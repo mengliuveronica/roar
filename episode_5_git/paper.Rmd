@@ -18,3 +18,7 @@ summary(cars)
 ```
 
 ## write some things 
+
+now write something new
+
+and see if I can commit the changes
